@@ -2,6 +2,8 @@
 
 Este script em **PowerShell** automatiza a instalação de diversos sistemas, softwares e drivers utilizados em ambientes corporativos. Ele inclui downloads, configurações, instalação silenciosa e criação de atalhos, tudo em um menu interativo.
 
+É possivel transformar em executavel, basta transformar o arquivo .ps1 em exe. (Inclusive é a maneira que utilizo na empresa)
+
 ---
 
 ## ⚙️ Funcionalidades
